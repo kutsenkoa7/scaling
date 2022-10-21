@@ -19,16 +19,21 @@ and graphical formats.
 
 To obtain the output one should call
 
+testdisstr;
+
+in new2.dpr and after that
+
 averag_ln;
 drawleen2_ln; 
 
-in new2.dpr for the energy density distribution and
+for the energy density distribution and then
 
 averag;
 drawleen2;
 
 for the dissipation spectra.
 
+Operating System: Windows
 Programming language: Delphi   (https://www.embarcadero.com/ru/products/delphi/starter)
 Additional libraries: MtxVec  [highly optimized implementation of basic linear
                               algebra rutines from Blas and Lapack based on Intel MKL]
