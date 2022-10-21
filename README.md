@@ -36,7 +36,7 @@ Additional libraries: MtxVec  [highly optimized implementation of basic linear
                       MikTex  [for figures] (https://miktex.org/)
 
 
-ALL THE FILES ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY.
+ALL THE FILES WITH SOURCE CODE ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY.
 
 
 
