@@ -33,6 +33,7 @@ Programming language: Delphi   (https://www.embarcadero.com/ru/products/delphi/s
 Additional libraries: MtxVec  [highly optimized implementation of basic linear
                               algebra rutines from Blas and Lapack based on Intel MKL]
                               (https://www.dewresearch.com/products/137-mtxvec-v4) 
+                      MikTex  [for figures] (https://miktex.org/)
 
 
 ALL THE FILES ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY.
