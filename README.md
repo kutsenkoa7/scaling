@@ -39,7 +39,7 @@ Additional libraries: MtxVec  [highly optimized implementation of basic linear
 ALL THE FILES WITH SOURCE CODE ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY.
 
 The complete documentation, some optimized routines, the projection of unstructured grids
-onto the square grid, and the graphical interface will someday:))) be available in a "in a commercial version". 
+onto the square grid, and the graphical interface will probably someday:))) be available in a "in a commercial version". 
 
 
 
