@@ -1,5 +1,5 @@
 # scaling
-Source code for the articles
+Source code for the article
    https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4207464
    and for Figure 8 in
    https://www.essoar.org/doi/10.1002/essoar.10512519.1 
