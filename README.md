@@ -33,11 +33,11 @@ drawleen2;
 
 for the dissipation spectra.
 
-Operating System: Windows
-Programming language: Delphi   (https://www.embarcadero.com/ru/products/delphi/starter)
+Operating System: Windows;
+Programming language: Delphi   (https://www.embarcadero.com/ru/products/delphi/starter);
 Additional libraries: MtxVec  [highly optimized implementation of basic linear
                               algebra rutines from Blas and Lapack based on Intel MKL]
-                              (https://www.dewresearch.com/products/137-mtxvec-v4) 
+                              (https://www.dewresearch.com/products/137-mtxvec-v4);
                       MikTex  [for figures] (https://miktex.org/)
 
 
