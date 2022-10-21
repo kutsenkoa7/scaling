@@ -1881,7 +1881,9 @@ procedure testdisstr;
  var i:integer;
      se, s, s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12: string;
 begin
-  s:='anton1949\';   se:='49_';
+  s:='anton1956\';   se:='56_';
+  
+  //s:='anton1949\';   se:='49_';
   //s:='vel_1956\'; se:='6_';
   s1:=s+'u_easy_19'+se;  s2:=s+'udis_easy_19'+se;
   s3:=s+'v_easy_19'+se;  s4:=s+'vdis_easy_19'+se;
@@ -1889,7 +1891,7 @@ begin
   s7:=s+'v_leith_19'+se;  s8:=s+'vdis_leith_19'+se;
   s9:=s+'dis_easy_19'+se; s10:=s+'energy_easy_19'+se;
   s11:=s+'dis_leith_19'+se; s12:=s+'energy_leith_19'+se;
-  for i:=184 to 365 do
+  for i:=1 to 10 do
     begin
 
        writeln('DAY   ',i);
@@ -1923,7 +1925,7 @@ procedure averag;
 begin
   CreateIt(v,v1,v2,v3);
     se:='56';
-    S:=1; E:=365;
+    S:=1; E:=10;
     N:=E-S+1;
     v2.size(99,false); v3.size(99,false);
     v2.scale(0); v3.scale(0);
@@ -1949,7 +1951,7 @@ procedure averag_ln;
 begin
   CreateIt(v,v1,v2,v3);
     se:='56';
-    S:=1; E:=365;
+    S:=1; E:=10;
     N:=E-S+1;
     v2.size(99,false); v3.size(99,false);
     v2.scale(0); v3.scale(0);
