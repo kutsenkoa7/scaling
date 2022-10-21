@@ -66,5 +66,5 @@ begin
 
   //testtxt1;
 
-  testscaleimg;
+  //testscaleimg;
 end.
