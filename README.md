@@ -40,7 +40,7 @@ Programming language: Delphi   (https://www.embarcadero.com/products/delphi/star
 Additional libraries: MtxVec  [highly optimized implementation of basic linear
                               algebra rutines from Blas and Lapack based on Intel MKL]
                               (https://www.dewresearch.com/products/137-mtxvec-v4);
-                      MikTex or TexLive  [for figures] (https://miktex.org/) (https://www.tug.org/texlive/)
+                      MikTex or TexLive  [both for figures] (https://miktex.org/) (https://www.tug.org/texlive/)
 
 
 ALL THE FILES WITH SOURCE CODE ARE PROVIDED FOR INFORMATIONAL PURPOSES ONLY.
