@@ -38,7 +38,7 @@ for the dissipation spectra.
 Operating System: Windows;
 Programming language: Delphi   (https://www.embarcadero.com/products/delphi/starter);
 Additional libraries: MtxVec  [highly optimized implementation of basic linear
-                              algebra rutines from Blas and Lapack based on Intel MKL]
+                              algebra rutines from Blas and Lapack based on Intel OneAPI]
                               (https://www.dewresearch.com/products/137-mtxvec-v4);
                       MikTex or TexLive  [both for figures] (https://miktex.org/) (https://www.tug.org/texlive/)
 
